@@ -9,7 +9,7 @@ An application that prompts the user with a question and displays an answer afte
 
 ### App Walk-though
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-156eb352b4.mp4" width=200><br>
+<img src="https://www.loom.com/share/b2b4ee7ca0234de9b0a7e059be775412" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
